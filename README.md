@@ -19,5 +19,5 @@ Reinforcement learning offers a means to make decisions through continual learni
 [1] Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction.</br>
 [2] Xie, Z., Berseth, G., Clary, P., Hurst, J., & Panne, M. (2018). Feedback Control For Cassie With Deep 
 Reinforcement Learning.</br>
-[3] Fakoor, M., Kosari, A., & Jafarzadeh, M. (2016). Humanoid robot path planning with fuzzy Markov decision processes.</br>
+[3] Fakoor, M., Kosari, A., & Jafarzadeh, M. (2016). Humanoid robot path planning with fuzzy Markov Decision processes.</br>
 [4] Shi, Y., Li, S., Guo, M., Yang, Y., Xia, D., & Luo, X. (2021). Structural Design, Simulation, and Experiment of Quadruped Robot.

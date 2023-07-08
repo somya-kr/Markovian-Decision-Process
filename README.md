@@ -1,5 +1,8 @@
 # Markovian-Decision-Process in Bipedal Locomotion
 *This was done as part of the term project for the course Stochastic Processes (MA41017)*
+*Team members: Prasanna Paithankar(21CS30065), Somya Kumar(21CS30050), Bratin Mondal(21CS10016), Swarnabh Mandal(21CS10068), Harsh Sharma(21CS30023)*
+*Instructor: Prof.Nitin Gupta*
+
 ### Introduction
 This project explores the application of Markov processes in modeling environmental feedback for agents involved in bipedal locomotion. The goal is to understand how humans and robots can make near-optimal decisions by learning from previous actions and outcomes.
 
